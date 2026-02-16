@@ -97,7 +97,9 @@ jupyter
 ```
 
 ## How to Run
+**Note:** You can view the analysis directly on GitHub by clicking on `Fitness_Analysis.ipynb` - no installation required!
 
+To run the notebook locally:
 1. Clone this repository
 ```
 git clone https://github.com/ShaikhFawzan/fitness-calorie-expenditure-analysis.git
@@ -106,7 +108,7 @@ cd fitness-calorie-expenditure-analysis
 
 2. Install dependencies
 ```
-pip install -r requirements.txt
+pip install -r Requirements/Requirements.txt
 ```
 
 3. Launch Jupyter Notebook
